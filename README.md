@@ -4,14 +4,14 @@ I'm Álvaro, a software engineering student at 42Vienna. Originally from El Salv
 
 ## What I'm up to
 
-Right now I'm working through the 42 curriculum, which is a peer-to-peer learning program focused on low-level programming.  I'm pursuing the RNCP 7 certification (equivalent to a Masters degree) while working as a Technical Support Engineer at Barracuda Networks, where I get to use my Linux, networking and bash scripting knowledge to solve network security problems.
+Right now I'm working through the 42 curriculum, which is a peer-to-peer learning program focused on low-level programming.  I'm pursuing the RNCP 7 certification (equivalent to a Masters degree) while working as a Software developer at Barracuda Networks, mainly in C++.
 
 ## Tech stuff I work with
 
 - **Languages**: C, C++, shell scripting
 - **Systems**: Linux (mainly), Windows, macOS
 - **Focus areas**: Low-level programming, networking, systems programming
-- **Currently learning**: More C++
+- **Currently learning**: More C++, Rust
 
 I've also done some cybersecurity learning through TryHackMe, covering networking, Linux, defensive security, and red teaming.
 
