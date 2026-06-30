@@ -1,17 +1,17 @@
 # Hey there 👋
 
-I'm Álvaro, a software engineering student at 42Vienna. Originally from El Salvador, currently based in Vienna, Austria.
+I'm Álvaro, a software engineer working at Barracuda Networks, and a software engineering student at 42Vienna. Originally from El Salvador, currently based in Vienna, Austria.
 
 ## What I'm up to
 
-Right now I'm working through the 42 curriculum, which is a peer-to-peer learning program focused on low-level programming.  I'm pursuing the RNCP 7 certification (equivalent to a Masters degree) while working as a Software developer at Barracuda Networks, mainly in C++.
+Right now I'm working through the 42 curriculum, which is a peer-to-peer learning program focused on low-level programming.  I'm pursuing the RNCP 7 certification (equivalent to a Masters degree) while working as a Software Engineer at Barracuda Networks, mainly in C++.
 
 ## Tech stuff I work with
 
 - **Languages**: C, C++, shell scripting
 - **Systems**: Linux (mainly), Windows, macOS
 - **Focus areas**: Low-level programming, networking, systems programming
-- **Currently learning**: More C++, Rust
+- **Currently learning**: Rust
 
 I've also done some cybersecurity learning through TryHackMe, covering networking, Linux, defensive security, and red teaming.
 
@@ -27,6 +27,4 @@ I studied Electronic Music Production at University of West London, where I disc
 
 I speak English and Spanish natively, and medium-level German. 
 
-## Get in touch
 
-📧 alvaro.camposmndz@gmail.com
